@@ -1,0 +1,18 @@
+{
+    "products": [
+    { "id_product": 1, "name": "Luke Lightsaber", "img": "images/Luke1.jpg", "price": 100000, "id_category": 3 },
+    { "id_product": 2, "name": "Darth Vader Lightsaber", "img": "images/vader1.jpg", "price": 95000, "id_category": 2 },
+    { "id_product": 3, "name": "Anakin Lightsaber", "img": "images/anakin1.jpg", "price": 125000, "id_category": 3 },
+    { "id_product": 4, "name": "Obi-Wan Lightsaber", "img": "images/Obi1.jpg", "price": 98000, "id_category": 3 },
+    { "id_product": 5, "name": "Darth Revan Lightsaber", "img": "images/Revan.png", "price": 80000, "id_category": 2 },
+    { "id_product": 6, "name": "Conde Dooku Lightsaber", "img": "images/Dooku.png", "price": 105000, "id_category": 2 },
+    { "id_product": 7, "name": "Starkiller Lightsaber", "img": "images/Starkiller.png", "price": 105000, "id_category": 3 },
+    { "id_product": 8, "name": "Mace Windu Lightsaber", "img": "images/Windu.png", "price": 93000, "id_category": 3 }
+],
+"category": [
+    {"id_category": 1, "name": "All"},
+    {"id_category": 2, "name": "Darkside"},
+    {"id_category": 3, "name": "Lightside"}
+    
+]
+}
